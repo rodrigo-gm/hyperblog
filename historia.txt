@@ -1,5 +1,7 @@
 Esta es la historia, solo texto para el curso de platzi.
 
-Prueba de texto 3.
+Prueba de texto 4.
 
-Nueva linea añadida
+Nueva linea añadida.
+
+Nueva versión.
